@@ -1,0 +1,11 @@
+ID,Title,Author,ISBN,Category,Total Copies,Available Copies,Date Added,Status
+1,Book1,Author1,111,Category1,5,0,01-01-2021,Borrowed
+2,Book2,Author2,222,Category2,3,0,02-02-2022,Borrowed
+3,Book3,Author3,333,Category3,2,0,03-03-2023,Borrowed
+4,bb,b,12,b,4,0,02-02-02,Borrowed
+5,bb,b,1,b,2,0,02-02-08,Borrowed
+6,nn,n,12,n,4,0,02-01-01,Borrowed
+7,neo,n,123,n,5,0,21-02-02,Borrowed
+8,neoooo,ww,2121,kk,3,2,04-04-04,Reserved
+9,diavasma,neotexnologia,99,oo,3,3,14-01-2001,Reserved
+10,testtt,a,99,u,8,8,05-05-05,Reserved
